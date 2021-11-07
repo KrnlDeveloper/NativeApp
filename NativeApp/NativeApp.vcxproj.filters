@@ -22,4 +22,7 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Xsd Include="UsefulLinks.txt" />
+  </ItemGroup>
 </Project>

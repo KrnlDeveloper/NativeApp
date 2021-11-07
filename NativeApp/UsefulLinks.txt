@@ -1,0 +1,3 @@
+﻿https://kobyk.wordpress.com/2008/07/26/debugging-user-mode-bootexecute-native-applications-with-kd/
+
+http://www.openrce.org/articles/full_view/24
